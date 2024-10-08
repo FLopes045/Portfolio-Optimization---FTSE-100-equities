@@ -1,4 +1,4 @@
-# Portfolio Optimization - Monte Carlo Simulation and Mean-Variance Approach
+# Portfolio Management - Monte Carlo Simulation and Mean-Variance Approach
 Comparison of different portfolio allocation strategies and estimation of Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR) using Parametric, Historical Simulation and Monte Carlo Simulation methods.
 
 ## Requirement
